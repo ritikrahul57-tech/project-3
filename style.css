@@ -88,8 +88,9 @@ body {
     font-size: 14px;
 }
 
-.btn {
+.btn button{
     padding: 18px;
+    height: 60px;
     width: 100%;
     border:none;
     border-radius: 20px;
